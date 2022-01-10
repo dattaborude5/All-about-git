@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>This is about page</p>
+    <h1>This is new feature</h1>
 </body>
 </html>
